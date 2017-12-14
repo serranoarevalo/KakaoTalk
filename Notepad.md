@@ -13,3 +13,5 @@
 
 #### tag 1-07. chats main 영역(chats.html) 구현
 
+#### tag 1-08. find main 영역(find.html) 구현
+
