@@ -15,3 +15,5 @@
 
 #### tag 1-08. find main 영역(find.html) 구현
 
+#### tag 1-09. more main 영역(more.html) 구현
+
