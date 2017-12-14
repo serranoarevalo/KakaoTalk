@@ -20,4 +20,10 @@
 #### tag 1-10 chat main 영역(chat.html) 구현
 
 - chats에서 채팅 창 윈도우를 클릭하면 chat으로 이동하도록 chats.html도 수정
-- ​
+
+#### tag 1-11 profile main 영역(profile.html) 구현
+
+- Friends의 내 프로필을 누르면 (index.html) profile.html로 이동하도록 수정
+- (profile.html) X 버튼을 누르면 index 페이지로 이동
+- chat.html도 < 버튼 누르면 chats.html로 이동
+
