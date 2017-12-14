@@ -17,3 +17,7 @@
 
 #### tag 1-09. more main 영역(more.html) 구현
 
+#### tag 1-10 chat main 영역(chat.html) 구현
+
+- chats에서 채팅 창 윈도우를 클릭하면 chat으로 이동하도록 chats.html도 수정
+- ​
