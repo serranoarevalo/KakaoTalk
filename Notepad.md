@@ -9,6 +9,7 @@
 - 네비게이션의 탭을 클릭하면 각각의 링크로 이동한다.
 - 선택된 탭은 진하게 표시하기 위해서 특정 클래스를 부여한다.
 
-#### tag 1-06. friend.html main 구현
+#### tag 1-06. friends main영역(index.html) 구현
 
-- ​
+#### tag 1-07. chats main 영역(chats.html) 구현
+
