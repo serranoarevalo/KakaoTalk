@@ -38,6 +38,13 @@
 ####  tag 2-03 font-family 지정(google fonts)
 
 - global.css 생성, open sans 적용
+
+#### tag 2-04 바닥에 있는 navigation.css 구현
+
+- navigation.css 생성
+- 바닥에 붙이기
+- header도 상단에 붙이기
+- header를 상단에 붙이면 main 영역의 컨텐츠가 안보이게 되는데, 이를 해결하기
 - ​
 
 

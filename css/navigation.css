@@ -1,0 +1,26 @@
+.tab-bar {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F7F7F7;
+    padding: 3px 10px;
+    border-top: 1px solid #C1C1C1;
+}
+
+.tab-bar .tab-bar-tab{
+    text-align: center;
+    text-decoration: none;
+    color: #C1C1C1;
+}
+
+.tab-bar .tab-bar-tab i{
+    display: block;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.tab-bar .tab-selected {
+    color: #523636;
+}

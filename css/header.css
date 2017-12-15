@@ -2,7 +2,10 @@
 .top-header {
     background-color: #523636;
     color: white;
-    padding: 5px 10px 15px 10px;
+    padding: 5px 7px 15px 7px;
+    position: fixed;
+    width: 100%;
+    top: 0;
 }
 
 .top-header .header-top,
@@ -17,7 +20,7 @@
 }
 
 .top-header .header-bottom {
-    margin: 0 10px;
+    margin: 0 7px;
 }
 
 .top-header .header-column {
