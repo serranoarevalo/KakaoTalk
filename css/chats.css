@@ -39,3 +39,23 @@
     font-size: 11px;
     color: #A7A7A7;
 }
+
+.create-chat {
+    background-color: #FFDC25;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.create-chat i {
+    color: #523636;
+    font-weight: 800;
+    font-size: 20px;
+}
