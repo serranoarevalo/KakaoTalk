@@ -28,12 +28,17 @@
 - chat.html도 < 버튼 누르면 chats.html로 이동
 
 
-#### tag2-01 CSS 준비하기
+#### tag 2-01 CSS 준비하기
 
-- css 폴더, style.css, reset.css 생성 후 임포트
+- css 폴더, style.css, reset.css, header.css 생성 후 임포트
 - 모든 html 파일의 header에 top-header 클래스 부여
 
-#### tag2-02 top-header 레이아웃, 배경 잡기
+#### tag 2-02 top-header 레이아웃, 배경 잡기
+
+####  tag 2-03 font-family 지정(google fonts)
+
+- global.css 생성, open sans 적용
+- ​
 
 
 
