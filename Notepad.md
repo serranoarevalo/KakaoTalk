@@ -27,3 +27,8 @@
 - (profile.html) X 버튼을 누르면 index 페이지로 이동
 - chat.html도 < 버튼 누르면 chats.html로 이동
 
+
+#### tag2-01 CSS 준비하기
+
+- css 폴더, style.css, reset.css 생성
+- 모든 html 파일의 header에 top-header 클래스 부여
