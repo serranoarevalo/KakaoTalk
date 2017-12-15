@@ -59,5 +59,13 @@
 
 - search-bar.css 생성
 
+#### tag 2-06
+
+- friends.css 생성
+
+#### tag 2-07
+
+
+
 
 
