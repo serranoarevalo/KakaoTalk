@@ -42,10 +42,22 @@
 #### tag 2-04 바닥에 있는 navigation.css 구현
 
 - navigation.css 생성
+
 - 바닥에 붙이기
+
 - header도 상단에 붙이기
+
 - header를 상단에 붙이면 main 영역의 컨텐츠가 안보이게 되는데, 이를 해결하기
-- ​
+
+  ![](./review_imgs/problem1-alignment.jpg)
+
+  ```
+  위 정렬 문제를 해결하는 두 가지 방법은?
+  ```
+
+#### tag 2-05 search-bar 구현 
+
+- search-bar.css 생성
 
 
 

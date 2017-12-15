@@ -1,0 +1,24 @@
+.search-bar {
+    padding: 10px 15px;
+    position: relative;
+}
+
+.search-bar input {
+    width: 100%;
+    background-color: #F7F7F7;
+    border: none;
+    border-radius: 5px;
+    line-height: 25px;
+    text-align: center;
+    color: #A7A7A7;
+}
+
+.search-bar input:focus {
+    outline: none;
+}
+.search-bar i {
+    position: absolute;
+    color: #A7A7A7;
+    top: 15px;
+    left: 50px;
+}
