@@ -30,5 +30,10 @@
 
 #### tag2-01 CSS 준비하기
 
-- css 폴더, style.css, reset.css 생성
+- css 폴더, style.css, reset.css 생성 후 임포트
 - 모든 html 파일의 header에 top-header 클래스 부여
+
+#### tag2-02 top-header 레이아웃, 배경 잡기
+
+
+
