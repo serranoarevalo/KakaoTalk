@@ -80,3 +80,10 @@
 
 - find.css 생성
 - header-bottom의 첫 번째 컬럼의 텍스트를 회색으로 변경
+
+
+
+#### tag 2-10
+
+- more.css 생성
+- ​

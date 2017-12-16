@@ -1,0 +1,128 @@
+.more {
+    background-color:#F2F2F2;    
+}
+
+.more i {
+    color: #523636;
+}
+
+.more .more-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    padding: 20px 15px;
+    background-color: white;
+    margin-bottom: 15px;
+}
+
+.more-header i {
+    font-size: 30px;
+}
+
+.more-header .header-column {
+    display: flex;
+    align-items: center;
+}
+
+.header-column img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.header-column .header-content .header-title {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.header-column .header-content .header-subtitle {
+    font-size: 12px;
+    color: #b4b4b4;
+}
+
+.more .more-optionbar,
+.more .more-plus-friends,
+.more .more-links {
+    background-color: white;
+    margin-bottom: 15px;
+}
+
+.more .more-optionbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.more-optionbar .optionbar-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.more-optionbar .optionbar-option i {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.more-optionbar .optionbar-option .optionbar-title {
+    font-size: 12.5px;
+}
+
+.more-plus-friends .plus-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.more-plus-friends .plus-header .header-subtitle,
+.more-plus-friends .plus-header .header-subtitle i {
+    font-size: 13px;
+    color: #b4b4b4;
+}
+
+.more-plus-friends .plus-items {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.plus-items .plus-item {
+    display: flex;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.plus-items .plus-item i {
+    margin-right: 20px;
+}
+
+.plus-items .plus-item .item-title {
+    font-size: 13px;
+}
+
+div.icon {
+    width: 38px;
+}
+
+.more-links {
+    display: flex;
+    padding: 20px;
+}
+
+.more-links .options-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.more-links .options-option img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.more-links .options-option .option-title {
+    font-size: 13px;
+}
