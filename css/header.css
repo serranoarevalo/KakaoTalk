@@ -9,6 +9,10 @@
     z-index: 20;
 }
 
+.top-header a {
+    color: white;
+}
+
 .header-bottom .header-column:first-child {
     color: rgba(255, 255, 255, 0.5);
 }
@@ -26,6 +30,10 @@
 
 .top-header .header-bottom {
     margin: 0 7px;
+}
+
+.top-header .header-bottom i {
+    font-size: 22px;
 }
 
 .top-header .header-column {
