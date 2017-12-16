@@ -1,0 +1,51 @@
+.find .find-options {
+    display: flex;
+    justify-content: space-around;
+    background-color: #EEEEEE;
+}
+
+.find-options {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    /*display: flex;
+    justify-content: space-between;*/
+}
+
+.find-option .option-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 1px solid #dddddd;
+    padding-right: 20px;
+}
+.find-option:last-child .option-item {
+    border: none;
+    padding-right: 10px;
+}
+
+.find-options .find-option i {
+    margin-bottom: 10px;
+}
+
+.find-options .find-option span {
+    font-size: 14px;
+}
+
+.find-recommended .recommended-header {
+    color: #A7A7A7;
+    border-top: 1px solid #EEEEEE;
+    border-bottom: 1px solid #EEEEEE;
+    padding: 7px 10px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.find-recommended .recommended-friends {
+    color: #A7A7A7;
+    border-bottom: 1px solid #EEEEEE;
+    padding: 15px 20px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 550;
+}
