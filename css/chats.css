@@ -54,8 +54,14 @@
     box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
 }
 
-.create-chat i {
+.create-chat {
     color: #523636;
     font-weight: 800;
     font-size: 20px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.create-chat:hover {
+    box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.3);
 }

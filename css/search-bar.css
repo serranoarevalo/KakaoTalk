@@ -7,17 +7,20 @@
 .search-bar input {
     width: 100%;
     background-color: #F7F7F7;
-    border: none;
+    border: 0px solid transparent;
     border-radius: 5px;
     line-height: 25px;
     text-align: center;
+    outline: none;
+    transition: all .1s ease-in-out;
 }
 .search-bar input::placeholder {
     color: #A7A7A7;
 }
 
 .search-bar input:focus {
-    outline: none;
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.1);
+    border: 1px solid #FFE934;
 }
 .search-bar i {
     position: absolute;

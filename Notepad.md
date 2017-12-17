@@ -98,4 +98,9 @@
 #### tag 2-12
 
 - chat.css 생성
-- ​
+
+#### tag 3-01
+
+- (chats.css) 채팅방을 만드는 노란색 원모양 아이콘에 hover 상태 시 transition 부여
+- (search-bar.css) 서치바 보더 focus 상태에 시 노란색으로
+
