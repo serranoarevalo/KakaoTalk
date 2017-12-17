@@ -101,6 +101,10 @@
 
 #### tag 3-01
 
-- (chats.css) 채팅방을 만드는 노란색 원모양 아이콘에 hover 상태 시 transition 부여
+- (chats.css) 채팅방을 만드는 노란색 원모양 아이콘에 hover 상태 시 box-shadow transition 부여
 - (search-bar.css) 서치바 보더 focus 상태에 시 노란색으로
 
+#### tag-3-02
+
+- (chats.css) 노란 색 원 모양 버튼이 한 바퀴 도는 transform + transition 적용
+- (navigation.css) 하단 네비게이션의 4개의 아이콘에 hover 시 사이즈가 커지는 transform + transition 적용
