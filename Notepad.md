@@ -94,3 +94,8 @@
 - profile.css 생성
 - header에 top-header-trasparent 추가, 
 - width, height에서 사용하는 vh 단위
+
+#### tag 2-12
+
+- chat.css 생성
+- ​

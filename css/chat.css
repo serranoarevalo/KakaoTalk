@@ -1,0 +1,133 @@
+.chat-body {
+    padding-bottom: 0;
+}
+.top-header.chat-header {
+    background-color: #A0C0D7;
+    color: black;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.chat-header .fa-chevron-left {
+    color: black;
+}
+
+.chat-header .header-text {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.chat {
+    background-color: #A0C0D7;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.chat .chat-message img {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+.chat .date-divider {
+    font-size: 12px;
+    text-align: center;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 15px;
+}
+
+.chat .chat-message {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.chat-message .chat-msg-body {
+    border-radius: 3px;
+}
+
+.chat-message.message-from-me {
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.chat-message .time {
+    font-size: 10px;
+    align-self: flex-end;
+    color: rgba(0,0,0,0.5);
+    padding-bottom: 5px;
+}
+
+.chat-message .chat-msg-body {
+    padding: 10px 5px;
+    font-size: 14px;
+}
+
+.chat-message.message-from-me .chat-msg-body {
+    background-color: #FFE934;
+    margin-left: 7px;
+}
+
+.chat-message.message-to-me {
+    margin-left: 10px;
+}
+
+.chat-message.message-to-me .chat-msg-chunk {
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-message.message-to-me img {
+    margin-right: 10px;
+}
+
+.chat-message.message-to-me .name {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.chat-message.message-to-me .chat-msg-body {
+    background-color: white;
+    margin-right: 7px;
+}
+
+.type-message-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 45px;
+    position: fixed;
+    bottom: 0;
+    background-color: #EEEEEE;
+    padding: 5px;
+}
+
+.type-message-bar .type-message-body {
+    display: flex;
+    align-items: center;
+    width: 94%;
+    position: relative;
+}
+
+.type-message-bar .fa-smile-o {
+    position: absolute;
+    right: 35px;
+}
+
+.type-message-bar i {
+    color: rgba(0,0,0,0.5)
+}
+
+.type-message-bar input {
+    width: 100%;
+    padding: 7px;
+    /*border-right: 0px;*/
+    border: 1px solid rgba(0,0,0,0.1);
+    outline: none;
+}
+
+.type-message-bar span.icon {
+    background-color: #FFE934;
+    padding: 6px 7px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
