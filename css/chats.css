@@ -59,7 +59,7 @@
     font-weight: 800;
     font-size: 20px;
     cursor: pointer;
-    transition: box-shadow .2s ease-in-out, transform .5s ease-in-out;
+    transition: box-shadow .2s ease-in-out, transform .8s ease-in-out;
 }
 
 .create-chat:hover {

@@ -108,3 +108,13 @@
 
 - (chats.css) 노란 색 원 모양 버튼이 한 바퀴 도는 transform + transition 적용
 - (navigation.css) 하단 네비게이션의 4개의 아이콘에 hover 시 사이즈가 커지는 transform + transition 적용
+
+#### tag 3-03
+
+- (global.css) 모든 페이지 body에서 애니메이션을 적용하여 (opacity와 translateY) 서서히 아래에서 위로 나타나도록
+- (friends.css/index.html) 이미지가 계속 빙글빙글 돌도록, 중간에 사이즈가 50%가 됬다가 다시 돌아오도록 애니메이션 적용
+
+#### tag 3-04
+
+- 모바일 사이즈가 아닐 때는 화면 크기를 줄여주세요. 출력
+- bigScreen.css 생성

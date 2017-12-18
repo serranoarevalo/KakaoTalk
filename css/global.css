@@ -4,4 +4,41 @@ body {
     padding-bottom: 60px;
 }
 
+main {
+    animation: .5s popInMain ease-in-out;
+}
+
+@keyframes popInMain {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
 html{overflow-y:scroll;}
+
+.bigScreen {
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: 30;
+    font-size: 3rem;
+    text-align: center;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFE934;
+    color: white;
+}
+
+@media screen and (min-width: 450px) {
+    .bigScreen {
+        display: flex;
+    }
+}
