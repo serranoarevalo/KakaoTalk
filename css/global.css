@@ -21,24 +21,4 @@ main {
 
 html{overflow-y:scroll;}
 
-.bigScreen {
-    position:fixed;
-    top:0;
-    left:0;
-    width: 100%;
-    height: 100%;
-    z-index: 30;
-    font-size: 3rem;
-    text-align: center;
-    display: none;
-    justify-content: center;
-    align-items: center;
-    background-color: #FFE934;
-    color: white;
-}
 
-@media screen and (min-width: 450px) {
-    .bigScreen {
-        display: flex;
-    }
-}
